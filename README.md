@@ -1,7 +1,7 @@
 # http-to-https
 Redirect http to https from the htaccess on Wordpress installs
 
-##htacces file
+## htaccess file (.htaccess)
 
 ```html
 <IfModule mod_rewrite.c>
